@@ -13,7 +13,7 @@ This Power BI dashboard tracks prayers, Quran reading, Athkar, tasks, work hours
 
 ## Preview
 
-![Ramadan Dashboard](./cdf4456c-deed-4a2b-b686-7260056a8cce.png)
+![Ramadan Dashboard](./RamadanD.png)
 
 ## Tech Stack
 
