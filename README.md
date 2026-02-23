@@ -20,3 +20,14 @@ This Power BI dashboard tracks prayers, Quran reading, Athkar, tasks, work hours
 - Power BI Desktop
 - SharePoint / API Integration (Athkar, Mosques)
 - DAX Measures & Power Query Transformations
+
+## Sources
+All data used is public and integrated using APIs:
+
+[AlAdhan Prayer Times API](https://aladhan.com/prayer-times-api#get-/calendar/from/-start-/to/-end-)
+
+[Azkar API](https://github.com/wdalgrb/azkar-api/blob/main/azkar.json)
+
+[Google Maps API via SerpApi](https://serpapi.com/google-maps-api)
+
+[AlQuran Cloud API](https://alquran.cloud/api)
